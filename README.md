@@ -6,6 +6,22 @@ repositório temporário referente a um projeto da disciplina Álgebra Linear N�
 - [Rust](https://www.rust-lang.org/tools/install)
 - [Gnuplot devidamente instalado no sistema](http://www.gnuplot.info/download.html)
 
+## Estrutura do projeto
+
+<pre>
+.
+├── Cargo.toml             # Configuração do projeto Rust
+├── README.md              # Instruções
+
+├── src                    # Código fonte principal
+│   └── main.rs
+│   └── plots.rs
+│   └── matrix.rs
+
+├── histograma.png         # Saída de gráficos gerados pelo programa
+├── relatorio.pdf          # Relatório do projeto
+</pre>
+
 ## Rodando o projeto
 
 Primeiro, certifique-se de mudar a função main do arquivo `src/main.rs` para receber o output do item desejado.
