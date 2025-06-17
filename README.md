@@ -35,4 +35,4 @@ Agora, estando dentro do diretório do repositório, rode o programa com:
 
 `cargo run`
 
-E claro, fique a vontade para mudar quais parâmetros dentro dos códigos para resultados diferentes.
+E claro, fique a vontade para mudar quaisquer parâmetros dentro dos códigos para resultados diferentes.
