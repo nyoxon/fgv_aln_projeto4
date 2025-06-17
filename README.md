@@ -34,3 +34,5 @@ Por exemplo, se quero ver os plots referentes ao item c, a função main deve fi
 Agora, estando dentro do diretório do repositório, rode o programa com:
 
 `cargo run`
+
+E claro, fique a vontade para mudar quais parâmetros dentro dos códigos para resultados diferentes.
